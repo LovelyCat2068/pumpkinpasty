@@ -1,0 +1,25 @@
+body{
+    background-image: url("Screenshot\ 2021-10-19\ 193805.png");
+    background-size: cover;
+}
+
+#pomo{
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: 'Festive', cursive;
+    background-color: purple;
+}
+
+#LiquoriceWANDS{
+        font-size: 50px;
+        font-family: 'Festive', cursive;
+        background-color: purple;
+}
+
+canvas{
+    border: 10px;
+    border-color: aquamarine;
+    box-shadow: 10px 10px 10px aqua;
+    background-color: cadetblue;
+    margin-top: 280px;
+}
