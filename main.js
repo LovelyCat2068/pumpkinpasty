@@ -24,7 +24,7 @@ function pumpkinjuice(results){
 
 function draw(){
     image(video, 0, 0, 300, 300);
-    image(g0blet0fFIRE, azkaban - 230, fortress - 100, 100, 100);
+    image(g0blet0fFIRE, azkaban - 215, fortress - 57, 100, 100);
 }
 
 function FloreanFortescue(){
